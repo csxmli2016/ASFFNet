@@ -4,3 +4,15 @@ Overview of our ASFFNet. WLS is adopted to select the optimal guidance from mult
 <img src="./Imgs/ASFFNet.png">
 
 ## Code will be public soon!
+
+
+# Citation
+
+```
+@InProceedings{Li_2020_CVPR,
+author = {Li, Xiaoming and Li, Wenyu and Ren, Dongwei and Zhang, Hongzhi and Wang, Meng and Zuo, Wangmeng},
+title = {Enhanced Blind Face Restoration with Multi-Exemplar Images and Adaptive Spatial Feature Fusion},
+booktitle = {CVPR},
+year = {2020}
+}
+```
