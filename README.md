@@ -3,7 +3,7 @@ Overview of our ASFFNet. WLS is adopted to select the optimal guidance from mult
 
 <img src="./Imgs/ASFFNet.png">
 
-## Code will be public after the sponsor's approval.
+## Code will be public available after the sponsor's approval.
 
 
 # Citation
