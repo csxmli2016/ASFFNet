@@ -3,7 +3,8 @@ Overview of our ASFFNet. WLS is adopted to select the optimal guidance from mult
 
 <img src="./Imgs/ASFFNet.png">
 
-## Code will be public available after the sponsor's approval.
+## ~~Code will be public available after the sponsor's approval.~~
+## We finally decide to release the code of ASFFNet. It is totally re-implemented with 512*512 images. Please refer to [ASFFNet512](https://github.com/csxmli2016/ASFFNet512) for more details.
 
 
 # Citation
